@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`3f46f00`](https://github.com/stdlib-js/stdlib/commit/3f46f0081eafad0fd248a74f5437197a6fe8b1b4) - **docs:** fix description _(by Athan Reines)_
 -   [`2ab87b3`](https://github.com/stdlib-js/stdlib/commit/2ab87b34f5d8e2877f1840846e6912d261ca234b) - **fix:** ensure correct type signatures and clarify calling conventions _(by Athan Reines)_
 -   [`f61ba13`](https://github.com/stdlib-js/stdlib/commit/f61ba134d7c13aacce9b4767b40bd47a5b8f46f6) - **test:** remove uncommon use case _(by Athan Reines)_
 -   [`2bf2cdb`](https://github.com/stdlib-js/stdlib/commit/2bf2cdbca4b101d079c1b98dee6fd2ae2cf9f862) - **test:** remove uncommon test case _(by Athan Reines)_
