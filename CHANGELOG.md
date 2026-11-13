@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-12)
+## Unreleased (2026-11-13)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`0319376`](https://github.com/stdlib-js/stdlib/commit/03193764064c422b0ace35f3f089fd49c1aec152) - avoid object mutation [(#16605)](https://github.com/stdlib-js/stdlib/pull/16605)
 -   [`2ab87b3`](https://github.com/stdlib-js/stdlib/commit/2ab87b34f5d8e2877f1840846e6912d261ca234b) - ensure correct type signatures and clarify calling conventions
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`0319376`](https://github.com/stdlib-js/stdlib/commit/03193764064c422b0ace35f3f089fd49c1aec152) - **fix:** avoid object mutation [(#16605)](https://github.com/stdlib-js/stdlib/pull/16605) _(by Philipp Burckhardt)_
 -   [`3f46f00`](https://github.com/stdlib-js/stdlib/commit/3f46f0081eafad0fd248a74f5437197a6fe8b1b4) - **docs:** fix description _(by Athan Reines)_
 -   [`2ab87b3`](https://github.com/stdlib-js/stdlib/commit/2ab87b34f5d8e2877f1840846e6912d261ca234b) - **fix:** ensure correct type signatures and clarify calling conventions _(by Athan Reines)_
 -   [`f61ba13`](https://github.com/stdlib-js/stdlib/commit/f61ba134d7c13aacce9b4767b40bd47a5b8f46f6) - **test:** remove uncommon use case _(by Athan Reines)_
@@ -48,9 +50,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
